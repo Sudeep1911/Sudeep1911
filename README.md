@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sudeep K</h1>
+<h1 align="center">Hi 👋, I'm Sudeep Karthigeyan</h1>
 <h3 align="center">Exploring the boundless world of coding and software development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudeep1911&label=Profile%20views&color=0e75b6&style=flat" alt="sudeep1911" /> </p>
